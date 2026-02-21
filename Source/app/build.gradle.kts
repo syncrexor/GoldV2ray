@@ -15,8 +15,8 @@ android {
         applicationId = "me.syncrex.goldv2ray"
         minSdk = 23
         targetSdk = 35
-        versionCode = 98
-        versionName = "98:1.10.24"
+        versionCode = 100
+        versionName = "100:1.10.24"
         multiDexEnabled = true
     }
 
